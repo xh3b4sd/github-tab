@@ -1,4 +1,13 @@
 # github-tab
+
+*Update*
+
+When you are fine with adjusting your habbits to official standards, you can go
+with `cmd+enter` to submit comments. That way you do not need to use this
+extension. At the time writing this extension I was not aware of this shortcut.
+
+---
+
 This Google Chrome extension fixes one annoying issue of the recent Github web
 UI upgrade. The issue is when reviewing pull requests, you write comments and
 usually hitting the tab key puts the browser focus on the submit button, so you
